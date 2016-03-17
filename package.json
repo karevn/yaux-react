@@ -1,0 +1,32 @@
+{
+  "name": "yaux-react",
+  "version": "0.1.0",
+  "description": "React integration for",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/karevn/yaux-react.git"
+  },
+  "keywords": [
+    "flux",
+    "reactjs",
+    "react",
+    "redux",
+    "yaux",
+    "reduce"
+  ],
+  "author": "Nikolay Karev",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "yaux": "^0.1.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "webpack": "^1.12.14"
+  }
+}
